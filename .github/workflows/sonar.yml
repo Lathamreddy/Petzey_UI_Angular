@@ -3,6 +3,7 @@ name: Docker Image CI
 on:
   # Trigger analysis when pushing to your main branches, and when creating a pull request.
   push:
+  #the new line added
     branches:
       - Dev
   
